@@ -19,8 +19,9 @@
 ![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
 ![Boostrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white)
+![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white)
 
 ### 📫 Contacto
 No dudes en ponerte en contacto conmigo a través de <a href="mailto:gonzalezmaia01@gmail.com">correo electrónico</a>.
 
-<img src="https://komarev.com/ghpvc/?username=srtaliv&style=flat-square&color=blue" alt=""/>
+
