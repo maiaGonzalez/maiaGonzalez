@@ -1,7 +1,7 @@
 ## 𝙷ola, soy Maia🫰
 
 <ul>
- Hola, soy Maia Gonzalez, técnica en informática y estudiante de la Tecnicatura Universitaria en Desarrollo de Aplicaciones Informáticas (TUDAI) en la Facultas de Ciencias Exactas UNICEN. Dejo aquí mi registro de conocimientos, tanto ejercicios practicados en diferentes materias como Trabajos practicos especiales realizados para materias y seminarios.
+ Hola, soy Maia Gonzalez, técnica en informática y estudiante de la Tecnicatura Universitaria en Desarrollo de Aplicaciones Informáticas (TUDAI) en la Facultas de Ciencias Exactas UNICEN. Dejo aquí mi registro de conocimientos, tanto ejercicios hechos de práctica para diferentes materias como Trabajos practicos especiales realizados para materias y seminarios.
 </ul>
 
 #### 💡 Skills
